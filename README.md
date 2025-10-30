@@ -101,7 +101,7 @@ myprakriti/
 ![Login Page](screenshots/Login.png)
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/Home.png)  ![](screenshots/Home2.png)
+![Home Screen](screenshots/Home.png)
 
 ### 🧩 Dosha Quiz
 ![Dosha Quiz](screenshots/PrakritiQuiz.png)
@@ -110,9 +110,10 @@ myprakriti/
 ![Know More Page](screenshots/KnowMore.png)
 
 ### 👤 Profile Page
-![Profile Page](screenshots/profile.png)   ![](screenshots/profile2.png)
+![Profile Page](screenshots/profile.png)
 
 
+More photos are on the screenshots foldler  
 ---
 
 ## 👨‍💻 Developed By
