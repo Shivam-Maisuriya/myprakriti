@@ -97,9 +97,6 @@ myprakriti/
 
 ## 📸 Screenshots
 
-### Login
-![Login Page](screenshots/Login.png)
-
 ### 🏠 Home Screen
 ![Home Screen](screenshots/Home.png)
 
