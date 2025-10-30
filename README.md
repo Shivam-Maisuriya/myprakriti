@@ -97,6 +97,9 @@ myprakriti/
 
 ## 📸 Screenshots
 
+### Login
+![Login Page](screenshots/Login.png)
+
 ### 🏠 Home Screen
 ![Home Screen](screenshots/Home.png)
 
@@ -107,10 +110,8 @@ myprakriti/
 ![Know More Page](screenshots/KnowMore.png)
 
 ### 👤 Profile Page
-![Profile Page](screenshots/profile.png)
+![Profile Page](screenshots/Profile.png)   ![](screenshots/Profile2.png)
 
-
-More photos are on the screenshots foldler  
 ---
 
 ## 👨‍💻 Developed By
